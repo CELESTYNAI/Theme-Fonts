@@ -17,7 +17,7 @@
 </details>
 </h2>
 
-## [Font Snippet](https://raw.githubusercontent.com/Rairof/Theme-Fonts/main/Almarai/Almarai-font-snippet.json)
+## [Font Snippet](https://raw.githubusercontent.com/CELESTYNAI/Theme-Fonts/main/Almarai/Almarai-font-snippet.json)
 ## Font sourced from [here.](https://fonts.google.com/specimen/Almarai?icon.set=Material+Symbols&category=Sans+Serif)
 <h2 align="left">2. Cabin</h2>
 <h2><details>
